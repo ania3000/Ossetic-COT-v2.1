@@ -7,7 +7,7 @@
 4	Мæнæ	мӕнӕ	ADV	_	PronType=Dem	_	_	_	_
 5-6	æрбасæуы	_	_	_	_	_	_	_	_
 5	æрба	æрба	PART	_	_	_	_	_	_
-6	сæуы	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+6	сæуы	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Typo=Yes
 7	,	,	PUNCT	_	_	_	_	_	_
 8	кæдæм	кӕдӕм	ADV	_	PronType=Int	_	_	_	_
 9	ма	ма	PART	_	_	_	_	_	_
