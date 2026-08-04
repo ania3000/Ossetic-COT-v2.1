@@ -263,7 +263,7 @@
 29	цыдтæн	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 30	,	,	PUNCT	_	_	_	_	_	_
 31	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-32	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+32	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 33	…	…	PUNCT	_	_	_	_	_	_
 
 # sent_id = 16
@@ -1846,7 +1846,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 9	та	та	PART	_	_	_	_	_	_
-10	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+10	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 11	дзы	йæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	торт	торт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13-14	æрбахаста	_	_	_	_	_	_	_	_
@@ -2334,7 +2334,7 @@
 # genre_id = radio
 # text = Æмæ нын баулæфыны рæстæг уыд, æмæ бæлæсты бын бадынц, мах дын Мæдинæимæ сыстадыстæм æмæ йын афтæ зæгъын, цом-ма, зæгъын, шофыртæй ахъазæм.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3-4	баулæфыны	_	_	_	_	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
 4	улæфыны	улæфын	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
@@ -2829,7 +2829,7 @@
 7	кодтам	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	цæмæй	цæмæй	SCONJ	_	_	_	_	_	_
-10	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+10	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 11	…	…	PUNCT	_	_	_	_	_	_
 12-13	ралидзæм	_	_	_	_	_	_	_	_
 12	ра	ра	PART	_	_	_	_	_	_
@@ -4092,7 +4092,7 @@
 # text = Фыццаг бынат нын радтой, æмæ афтæмæй рафардæг стæм.
 1	Фыццаг	фыццаг	ADJ	_	NumType=Ord	_	_	_	_
 2	бынат	бынат	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+3	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 4	радтой	раттын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -5125,7 +5125,7 @@
 5	фсины	æфсин	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	кой	кой	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	ма	ма	PART	_	_	_	_	_	_
-8	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+8	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 9-10	ракæ	_	_	_	_	_	_	_	_
 9	ра	ра	PART	_	_	_	_	_	_
 10	кæ	кæнын	AUX	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
@@ -5347,7 +5347,7 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Ирон	ирон	ADJ	_	_	_	_	_	_
 5	литературæ	литературӕ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	лæвæрдта	дæттын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
@@ -5573,7 +5573,7 @@
 # genre_id = expedition
 # text = Æмæ нæ уыдон куы базыдтой, чи стæм æмæ куыд стæм, уæд нын бирæ хорздзинæдтæ скодтой, бирæ æххуыстæ нын фæкодтой.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	нæ	нæ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 4	куы	куы	ADV	_	PronType=Int	_	_	_	_
 5-6	базыдтой	_	_	_	_	_	_	_	_
@@ -5587,7 +5587,7 @@
 12	стæм	уæвын	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 13	,	,	PUNCT	_	_	_	_	_	_
 14	уæд	уӕд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-15	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+15	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 16	бирæ	бирæ	ADJ	_	_	_	_	_	_
 17	хорздзинæдтæ	хорздзинад	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 18-19	скодтой	_	_	_	_	_	_	_	_
@@ -5596,7 +5596,7 @@
 20	,	,	PUNCT	_	_	_	_	_	_
 21	бирæ	бирæ	ADJ	_	_	_	_	_	_
 22	æххуыстæ	ӕххуыс	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-23	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+23	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 24-25	фæкодтой	_	_	_	_	_	_	_	_
 24	фæ	фæ	PART	_	_	_	_	_	_
 25	кодтой	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -5866,7 +5866,7 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Тамик	Тамик	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 5	дæр	дæр	PART	_	_	_	_	_	_
-6	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	цыдæр	цыдӕр	PRON	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
 8	дзурынмæ	дзурын	NOUN	_	Case=All|Number=Sing|VerbForm=Inf	_	_	_	_
 9	хъавы	хъавын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -5977,11 +5977,11 @@
 # genre_id = expedition
 # text = Æмæ нын, тынг хъыг нын у махæн.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	тынг	тынг	ADJ	_	_	_	_	_	_
 5	хъыг	хъыг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	у	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 8	махæн	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -7224,7 +7224,7 @@
 49	нал	нал	PART	_	Polarity=Neg	_	_	_	_
 50	цыди	цæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 51	,	,	PUNCT	_	_	_	_	_	_
-52	семæ	уыдон	PRON	_	Case=Com|Number=Plur|Person=3|PronType=Prs	_	_	_	_
+52	семæ	сæ	PRON	_	Case=Com|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 53	къæбыла	къӕбыла	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 54	дæр	дæр	PART	_	_	_	_	_	_
 55	уыди	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -8040,7 +8040,7 @@
 3	:	:	PUNCT	_	_	_	_	_	_
 4	Кæд	кæд	SCONJ	_	_	_	_	_	_
 5	ма	ма	PART	_	_	_	_	_	_
-6	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+6	нæ	нæ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 7	гъе	гъе	INTJ	_	_	_	_	_	_
 8	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 9-10	раздаха	_	_	_	_	_	_	_	_
@@ -8778,7 +8778,7 @@
 # genre_id = expedition
 # text = Æмæ нæ нæ сыхæгтæм атардтой.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
-2	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+2	нæ	нæ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 3	нæ	нæ	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 4	сыхæгтæм	сыхаг	NOUN	_	Case=All|Number=Plur	_	_	_	_
 5-6	атардтой	_	_	_	_	_	_	_	_
@@ -10441,14 +10441,14 @@
 9	бирæ	бирӕ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	уыдон	уыдон	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
-12	нын	мах	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+12	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 13	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 14	уыдысты	уæвын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
 16	зæгъгæ	зæгъгæ	SCONJ	_	VerbForm=Conv	_	_	_	_
 17	,	,	PUNCT	_	_	_	_	_	_
 18	хæрзкуынæг	хæрзкуынæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-19	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+19	нæ	нæ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 20-21	скодтаиккой	_	_	_	_	_	_	_	_
 20	с	с	PART	_	_	_	_	_	_
 21	кодтаиккой	кæнын	VERB	_	Aspect=Perf|Mood=Irr|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_
@@ -10484,7 +10484,7 @@
 19	дæр	дæр	PART	_	_	_	_	_	_
 20	-	-	PUNCT	_	_	_	_	_	_
 21	иу	иу	PART	_	_	_	_	_	_
-22	нæ	мах	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+22	нæ	нæ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 23	кæрдæджытæй	кæрдæг	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 24	дзæбæх	дзӕбӕх	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 25	кодта	кæнын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
