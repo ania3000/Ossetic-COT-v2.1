@@ -523,7 +523,7 @@
 # genre_id = expedition
 # text = Радзурут-ма сымах дæр исты.
 1-2	Радзурут	_	_	_	_	_	_	_	_
-1	ра	ра	PART	_	_	_	_	_	_
+1	Ра	ра	PART	_	_	_	_	_	_
 2	дзурут	дзурын	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	_
 3	-	-	PUNCT	_	_	_	_	_	_
 4	ма	ма	PART	_	_	_	_	_	_
@@ -1712,7 +1712,7 @@
 # sent_id = 95
 # genre_id = expedition
 # text = Раздæр-иу куыддæтæ кодтой, æр тæккæ, конечно, афтæ нал кæнынц, раздæр мæнæ…
-1	раздæр	раздæр	ADV	_	_	_	_	_	_
+1	Раздæр	раздæр	ADV	_	_	_	_	_	_
 2	-	-	PUNCT	_	_	_	_	_	_
 3	иу	иу	PART	_	_	_	_	_	_
 4	куыддæтæ	куыд	PRON	_	Case=Nom|Number=Plur|PronType=Int	_	_	_	_
@@ -6549,7 +6549,7 @@
 # genre_id = expedition
 # text = Фæрæдыдтæн, йед ыл уыди, афтæ уæлейы, йер, зæгъæм, мæнæ экран куыд вæййы, афтæ, афтæ-иу æй стыхтам.
 1-2	Фæрæдыдтæн	_	_	_	_	_	_	_	_
-1	фæ	фæ	PART	_	_	_	_	_	_
+1	Фæ	фæ	PART	_	_	_	_	_	_
 2	рæдыдтæн	рæдийын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	йед	йед	PRON	_	Case=Nom|Number=Sing|PronType=Plch	_	_	_	_
@@ -6638,7 +6638,7 @@
 # sent_id = 348
 # genre_id = expedition
 # text = Раздæр-иу, мах рæстæджы, уæд-иу мæнæ капрон цъындатæ, дзыккутæ æруадзай…
-1	раздæр	раздæр	ADV	_	_	_	_	_	_
+1	Раздæр	раздæр	ADV	_	_	_	_	_	_
 2	-	-	PUNCT	_	_	_	_	_	_
 3	иу	иу	PART	_	_	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
@@ -7330,7 +7330,7 @@
 # genre_id = expedition
 # text = Бафтыдтой-иу æй, нæ дзаумæттæ нын ныхс.
 1-2	Бафтыдтой	_	_	_	_	_	_	_	_
-1	ба	ба	PART	_	_	_	_	_	_
+1	Ба	ба	PART	_	_	_	_	_	_
 2	æфтыдтой	æфтауын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	-	-	PUNCT	_	_	_	_	_	_
 4	иу	иу	PART	_	_	_	_	_	_

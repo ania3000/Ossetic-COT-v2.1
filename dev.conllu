@@ -2601,7 +2601,7 @@
 # sent_id = 130
 # genre_id = expedition
 # text = Раздæр-иу дзы картофтæ йедтæ сагътой, ныр уже… æддейы дæр.
-1	раздæр	раздæр	ADV	_	_	_	_	_	_
+1	Раздæр	раздæр	ADV	_	_	_	_	_	_
 2	-	-	PUNCT	_	_	_	_	_	_
 3	иу	иу	PART	_	_	_	_	_	_
 4	дзы	йæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -3245,7 +3245,7 @@
 # genre_id = expedition
 # text = Рацыдыстæм дын, æмæ дын как раз æлхæнæджытæ æрбацыдысты, фыццаг покупательтæ.
 1-2	Рацыдыстæм	_	_	_	_	_	_	_	_
-1	ра	ра	PART	_	_	_	_	_	_
+1	Ра	ра	PART	_	_	_	_	_	_
 2	цыдыстæм	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 3	дын	дæ	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
@@ -7008,7 +7008,7 @@
 # genre_id = expedition
 # text = Баххуыс сын кодта гъе уæд къалхоз, къалхозы руаджы, хъæуы цæрджыты, фæсивæды руаджы, æмæ зиу скодтой, ракодтой, æмæ самадтой ацы бæстыхай, скъолайы бæстыхай.
 1-2	Баххуыс	_	_	_	_	_	_	_	_
-1	ба	ба	PART	_	_	_	_	_	_
+1	Ба	ба	PART	_	_	_	_	_	_
 2	æххуыс	æххуыс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	сын	cæ	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -8337,7 +8337,7 @@
 # genre_id = expedition
 # text = Амар æй, амар!
 1-2	Амар	_	_	_	_	_	_	_	_
-1	а	а	PART	_	_	_	_	_	_
+1	А	а	PART	_	_	_	_	_	_
 2	мар	марын	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
 3	æй	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
